@@ -8,10 +8,10 @@ import DocumentationIcon from './icons/IconDocumentation.vue'
 
 <div class="item">
     <div class="back-img">
-       <img alt="Vue logo" class="logo" src="../assets/balloonGroup.png" width="200" />
+       <img alt="balloons" class="logo" src="../assets/balloonGroup.png" width="200" />
     </div>
     <div class="front-img">
-        <img alt="Vue logo" class="logo" src="../assets/balloon01.png" width="140" />
+        <img alt="balloon rose" class="logo" src="../assets/balloon01.png" width="140" />
     </div>
     <div class="text-container">
         <h3>It's a Girl!</h3>
