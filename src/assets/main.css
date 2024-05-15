@@ -7,9 +7,12 @@
   font-weight: normal;
 }
 
-a,
-.green {
+a{
+  color: var(--vt-c-baby);
   text-decoration: none;
+}
+.green {
+  
   color: hsla(160, 100%, 37%, 1);
   transition: 0.4s;
   padding: 3px;
@@ -17,7 +20,7 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    color: var(--vt-c-indigo);
   }
 }
 
